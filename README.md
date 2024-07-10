@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm GorkyAnge👋</h1>
 </div>
-<img src="https://i.ibb.co/zNsrwbF/Gorky-Ange.png">
+<img src="https://i.ibb.co/y4bh3dd/Gorky-Ange-1.png">
 
 ## About me
 
