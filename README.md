@@ -20,3 +20,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GorkyAnge&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vcoxjb1hn0y5hnn64wnzvit1u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
