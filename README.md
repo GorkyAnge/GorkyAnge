@@ -6,11 +6,9 @@
 
 ## About me
 
-- 📲 FullStack Software Developer
+- 📲 Software Developer 
 - 🎓 Estudiante de Ingeniería de Software en la Universidad de las Américas
-- 🎵 Fanático de las caderas de Shakira, los estilos de Harry, y las medias noches de Taylor Swift 🎶
-- 💻 Experiencia en desarrollo web con .NET, React, Node.js, Firebase y Microsoft SQL
-- 🌍 Comprometido con el aprendizaje continuo y la mejora constante en tecnologías emergentes
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
