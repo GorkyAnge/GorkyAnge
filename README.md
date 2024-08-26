@@ -2,7 +2,8 @@
 <h1 align="center">Hi, I'm GorkyAnge👋</h1>
 </div>
 
-<img src="https://i.ibb.co/y4bh3dd/Gorky-Ange-1.png">
+![@GorkyAnge](https://github.com/user-attachments/assets/1b96036a-fb1b-4d73-9cd7-74fba29c0ce1)
+
 
 ## About me
 
