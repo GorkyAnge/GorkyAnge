@@ -31,8 +31,9 @@
 
 
 <div align="center">
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=vcoxjb1hn0y5hnn64wnzvit1u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-</a>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vcoxjb1hn0y5hnn64wnzvit1u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
+
 
