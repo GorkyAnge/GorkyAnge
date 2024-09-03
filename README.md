@@ -5,7 +5,8 @@
 ![@GorkyAnge](https://github.com/user-attachments/assets/1b96036a-fb1b-4d73-9cd7-74fba29c0ce1)
 
 # 💫 About Me:
-- 📲 Software Developer <br>- 🎓 Estudiante de Ingeniería de Software en la Universidad de las Américas
+- 📲 Software Developer
+- 🎓 Estudiante de Ingeniería de Software en la Universidad de las Américas
 
 
 ## 🌐 Socials:
