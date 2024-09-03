@@ -37,9 +37,10 @@
   
 </a>
 </p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GorkyAnge&theme=dark&hide_border=false)<br/>
+
 
 <div align="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=GorkyAnge&theme=dark&hide_border=false)<br/>
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vcoxjb1hn0y5hnn64wnzvit1u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
