@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 - 📲 Software Developer
-- 🎓 Estudiante de Ingeniería de Software en la Universidad de las Américas
+- 🎓 Universidad de las Américas (UDLA)
 
 
 ## 🌐 Socials:
